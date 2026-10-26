@@ -13,8 +13,8 @@ I'm a Computer Science graduate with practical experience building Python applic
 
 ## 🛠️ Tech Stack
 
-**Backend:** Python, FastAPI, SQLAlchemy, REST APIs  
-**Databases:** PostgreSQL, SQLite  
+**Backend:** Python, FastAPI, Django, SQLAlchemy, REST APIs  
+**Databases:** PostgreSQL, MySQL, SQLite
 **Data & ML:** Pandas, NumPy, scikit-learn, XGBoost, TensorFlow/Keras  
 **Computer Vision:** PyTorch, OpenCV  
 **Testing:** Pytest, Playwright, Robot Framework  
